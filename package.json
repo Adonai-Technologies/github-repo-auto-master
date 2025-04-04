@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Adonai-Technologies/github-repo-auto-master#readme",
   "dependencies": {
+    "@octokit/rest": "^21.1.1",
     "@pulumi/github": "^6.7.0",
     "@pulumi/pulumi": "^3.160.0"
   },

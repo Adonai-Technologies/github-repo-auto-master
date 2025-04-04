@@ -1,0 +1,16 @@
+{
+  "repoName": "awesome_new_repo", 
+  "description": "This is a repo created via Pulumi Automation",
+  "visibility": "private",
+  "collaborators": [
+    {
+      "username": "Adonai-Technologies",
+      "permission": "push"
+    }
+  ],
+  "labels": ["bug", "feature", "help wanted"],
+  "branchProtection": {
+    "requiredApprovingReviewCount": 1,
+    "requireCodeOwnerReviews": true
+  }
+}

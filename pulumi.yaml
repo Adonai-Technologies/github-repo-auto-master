@@ -1,0 +1,3 @@
+name: github-repo-auditor
+runtime: nodejs
+description: Audits GitHub repositories for visibility, collaborators, labels, and branch protection
