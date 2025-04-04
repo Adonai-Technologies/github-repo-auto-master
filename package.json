@@ -1,0 +1,30 @@
+{
+  "name": "github-repo-auto-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adonai-Technologies/github-repo-auto-master.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Adonai-Technologies/github-repo-auto-master/issues"
+  },
+  "homepage": "https://github.com/Adonai-Technologies/github-repo-auto-master#readme",
+  "dependencies": {
+    "@pulumi/github": "^6.7.0",
+    "@pulumi/pulumi": "^3.160.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
